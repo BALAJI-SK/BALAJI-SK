@@ -95,14 +95,28 @@ Currently pursuing my **MSc in Artificial Intelligence at Dublin City University
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALAJI-SK&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-SK&layout=compact&theme=tokyonight" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BALAJI-SK&show_icons=true&theme=tokyonight&cache_seconds=7200" 
+    height="160" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-SK&layout=compact&theme=tokyonight&cache_seconds=7200" 
+    height="160" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BALAJI-SK&theme=tokyonight" height="160" />
+  <img 
+    src="https://streak-stats.demolab.com?user=BALAJI-SK&theme=tokyonight&date_format=j%20M%5B%20Y%5D" 
+    height="160" 
+  />
 </p>
+
+---
+
 
 ---
 
