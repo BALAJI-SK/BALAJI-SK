@@ -95,7 +95,7 @@ Currently pursuing my **MSc in Artificial Intelligence at Dublin City University
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BALAJI-SK&show_icons=true&theme=tokyonight" 
     height="160" 
@@ -104,7 +104,7 @@ Currently pursuing my **MSc in Artificial Intelligence at Dublin City University
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BALAJI-SK&layout=compact&theme=tokyonight" 
     height="160" 
   />
-</p>
+</p> -->
 
 <p align="center">
   <img 
