@@ -62,21 +62,50 @@ Currently pursuing my **MSc in Artificial Intelligence at Dublin City University
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Badges)
 
-**Languages:**  
-C++, Python, Go, JavaScript, SQL, Dart  
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+</p>
 
-**Frameworks & Tools:**  
-Flask, Node.js, React, Flutter, Docker, Kubernetes, AWS, Gerrit, RabbitMQ  
+**Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+</p>
 
-**AI/ML:**  
-Scikit‑learn, Pandas, NumPy, AWS Bedrock, LLMs  
-
-**Databases:**  
-MariaDB, PostgreSQL, MongoDB, SQLite, Firebase  
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BALAJI-SK&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-SK&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BALAJI-SK&theme=tokyonight" height="160" />
+</p>
+
+---
+
 
 ## 📫 Connect With Me
 
